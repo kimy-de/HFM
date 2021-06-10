@@ -1,3 +1,4 @@
+
 # Hidden Fluid Mechanics (Pytorch)
 
 
@@ -31,8 +32,7 @@ python evaluation.py --modelpath './hfm_0.pth'
 Google Colab is used for the experiment. It tasks 25 hours to obtain the result.
 
 Learning rate scheduler = [1e-3(~6 hours), 1e-4(~16 hours), 1e-5(~25 hours)]
-
 <p align="center">
- <img width="800" alt="res1" src="https://user-images.githubusercontent.com/52735725/120918950-67ef8f80-c6b7-11eb-86dd-06576e075a3a.png">
+<img src="https://user-images.githubusercontent.com/52735725/121577522-e175dd80-ca29-11eb-93cd-d13bdb2cf0ed.gif" width="500">
 
 </p>
