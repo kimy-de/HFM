@@ -33,6 +33,6 @@ Google Colab is used for the experiment. It tasks 25 hours to obtain the result.
 
 Learning rate scheduler = [1e-3(~6 hours), 1e-4(~16 hours), 1e-5(~25 hours)]
 <p align="center">
-<img src="https://user-images.githubusercontent.com/52735725/121577522-e175dd80-ca29-11eb-93cd-d13bdb2cf0ed.gif" width="500">
+<img src="https://user-images.githubusercontent.com/52735725/121580324-e7b98900-ca2c-11eb-8bee-a6b300223c9d.gif" width="500">
 
 </p>
