@@ -115,7 +115,7 @@ def test_data(T_star, X_star, Y_star, C_star, U_star, V_star, P_star):
     return variables_star, target_star
 
 def relative_error(pred, target):
-    return torch.sqrt(torch.mean((pred - target)**2)/torch.mean((target - torch.mean(target))**2))
+    return torch.sqrt(torch.mean((pred - target)**2)/torch.mean((target - torch.mean(target))**2)).cpu().numpy()
 
 if __name__ == "__main__":
     import numpy as np
